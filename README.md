@@ -192,9 +192,16 @@ Transformer forward pass from scratch. No PyTorch. SIMD-optimised matmul benchma
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=poly-chinmay&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0a0a0f&title_color=4f6ef7&text_color=94a3b8&icon_color=a78bfa&include_all_commits=true&count_private=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=poly-chinmay&theme=midnight_purple" width="100%"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poly-chinmay&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0a0a0f&title_color=4f6ef7&text_color=94a3b8&langs_count=8&cache_seconds=1800"/>
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=poly-chinmay&theme=midnight_purple" height="160em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=poly-chinmay&theme=midnight_purple" height="160em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=poly-chinmay&theme=midnight_purple" height="160em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=poly-chinmay&theme=midnight_purple&utcOffset=5.5" height="160em"/>
 
 </div>
 
