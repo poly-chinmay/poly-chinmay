@@ -192,15 +192,15 @@ Transformer forward pass from scratch. No PyTorch. SIMD-optimised matmul benchma
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=poly-chinmay&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0a0a0f&title_color=4f6ef7&text_color=94a3b8&icon_color=a78bfa&count_private=true&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=poly-chinmay&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0a0a0f&title_color=4f6ef7&text_color=94a3b8&icon_color=a78bfa&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poly-chinmay&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0a0a0f&title_color=4f6ef7&text_color=94a3b8&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poly-chinmay&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0a0a0f&title_color=4f6ef7&text_color=94a3b8&langs_count=8&cache_seconds=1800"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=poly-chinmay&theme=midnight-purple&hide_border=true&background=0a0a0f&stroke=4f6ef7&ring=a78bfa&fire=f59e0b&currStreakLabel=4f6ef7" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=poly-chinmay&theme=midnight-purple&hide_border=true&background=0a0a0f&stroke=4f6ef7&ring=a78bfa&fire=f59e0b&currStreakLabel=4f6ef7" width="100%"/>
 
 </div>
 
